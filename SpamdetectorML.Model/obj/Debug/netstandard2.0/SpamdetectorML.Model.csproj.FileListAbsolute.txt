@@ -1,0 +1,9 @@
+C:\Users\anoua\source\repos\Spamdetector\SpamdetectorML.Model\bin\Debug\netstandard2.0\MLModel.zip
+C:\Users\anoua\source\repos\Spamdetector\SpamdetectorML.Model\bin\Debug\netstandard2.0\SpamdetectorML.Model.deps.json
+C:\Users\anoua\source\repos\Spamdetector\SpamdetectorML.Model\bin\Debug\netstandard2.0\SpamdetectorML.Model.dll
+C:\Users\anoua\source\repos\Spamdetector\SpamdetectorML.Model\bin\Debug\netstandard2.0\SpamdetectorML.Model.pdb
+C:\Users\anoua\source\repos\Spamdetector\SpamdetectorML.Model\obj\Debug\netstandard2.0\SpamdetectorML.Model.csprojAssemblyReference.cache
+C:\Users\anoua\source\repos\Spamdetector\SpamdetectorML.Model\obj\Debug\netstandard2.0\SpamdetectorML.Model.AssemblyInfoInputs.cache
+C:\Users\anoua\source\repos\Spamdetector\SpamdetectorML.Model\obj\Debug\netstandard2.0\SpamdetectorML.Model.AssemblyInfo.cs
+C:\Users\anoua\source\repos\Spamdetector\SpamdetectorML.Model\obj\Debug\netstandard2.0\SpamdetectorML.Model.dll
+C:\Users\anoua\source\repos\Spamdetector\SpamdetectorML.Model\obj\Debug\netstandard2.0\SpamdetectorML.Model.pdb

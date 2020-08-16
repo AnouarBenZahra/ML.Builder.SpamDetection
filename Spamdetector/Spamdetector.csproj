@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <UserSecretsId>5da83ea6-6c72-40b6-bb2f-665d1ffed35b</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SpamdetectorML.Model\SpamdetectorML.Model.csproj" />
+  </ItemGroup>
+
+
+
+</Project>

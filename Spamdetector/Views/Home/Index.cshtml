@@ -1,0 +1,15 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model Spamdetector.Models.text
+
+    <div class="text-center">
+        <h1 class="display-4">Welcome</h1>
+        <p>Learn about <a href="https://docs.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+        @using (Html.BeginForm("Subscribe", "Home", FormMethod.Post))
+        {
+            @Html.TextBoxFor(model => model.msg)
+            <button type="submit">Predict</button>
+        }  
+        @ViewData["myResult"]
+    </div>
